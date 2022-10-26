@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.microsoft.vcredist</Name>
+  <DisplayName>Visual C++ Redistributable</DisplayName>
+  <Version>14.32.31332.0</Version>
+  <ReleaseDate>2022-10-13</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="23547105" UncompressedSize="25234832"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>4d0980f935981d10ecaa74acd8ae745e53408a2a</SHA1>
+ </PackageUpdate>
+ <SHA1>12d9898d4b0bedc19f3649358c24641b731b41af</SHA1>
+ <MetadataName>2022-10-26-1514_meta.7z</MetadataName>
+</Updates>
