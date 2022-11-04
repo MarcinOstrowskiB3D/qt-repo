@@ -3,6 +3,34 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
+  <Name>com.banach.scanner</Name>
+  <DisplayName>Banach 3D Scanner</DisplayName>
+  <Version>1.3.0</Version>
+  <ReleaseDate>2022-10-15</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="40" OS="Any" CompressedSize="142"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <Translations>pl.qm</Translations>
+  <Licenses>
+   <License name="Banach 3D Scanner - License Agreement" file="banach_license.txt"/>
+  </Licenses>
+  <SHA1>d1ed37762813a44e7a2fa6863beef9fdd517bcb6</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.daheng.dahengsdk</Name>
+  <DisplayName>Galaxy Windows Runtime</DisplayName>
+  <Version>1.18.2208.9301</Version>
+  <ReleaseDate>2022-09-02</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="29041766" OS="Any" CompressedSize="29342856"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>4671092e99c7871acb7ca84056e5ff78cd344735</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
   <Name>com.microsoft.vcredist</Name>
   <DisplayName>Visual C++ Redistributable</DisplayName>
   <Version>14.32.31332.0</Version>
@@ -10,10 +38,49 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="23547105" UncompressedSize="25234832"/>
+  <UpdateFile UncompressedSize="25234832" OS="Any" CompressedSize="23547105"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4d0980f935981d10ecaa74acd8ae745e53408a2a</SHA1>
+  <SHA1>4d7bbbdfc8f92384f5c9985d04756d5b28db4f1f</SHA1>
  </PackageUpdate>
- <SHA1>12d9898d4b0bedc19f3649358c24641b731b41af</SHA1>
- <MetadataName>2022-10-26-1514_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>com.nvidia.cudadnn</Name>
+  <DisplayName>Nvidia Cuda DNN</DisplayName>
+  <Version>11.7.0</Version>
+  <ReleaseDate>2022-05-11</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="863629352" OS="Any" CompressedSize="334603317"/>
+  <DownloadableArchives>cudnn-windows-x86_64-8.5.0.96_cuda11-archive.7z</DownloadableArchives>
+  <Licenses>
+   <License name="CUDA DNN - License Agreement" file="cudadnn_license.txt"/>
+  </Licenses>
+  <SHA1>5182a6e71b87f4b68dc0e1153bbafc4e068d20d4</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.nvidia.cudatoolkit</Name>
+  <DisplayName>Nvidia Cuda Toolkit</DisplayName>
+  <Version>11.7.0</Version>
+  <ReleaseDate>2022-05-11</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="36190496" OS="Any" CompressedSize="35971750"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>b9089285a96e328796ae332e094a4e45b589bc4e</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.qtproject.ifw.maintenancetool</Name>
+  <DisplayName>Maintance Tool Updater</DisplayName>
+  <Version>4.2.0</Version>
+  <ReleaseDate>2022-10-15</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Virtual>true</Virtual>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="32803899" OS="Any" CompressedSize="10947240"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>ea4e6318cc1a5bac67c73df1b1468bd7c00c57a6</SHA1>
+ </PackageUpdate>
+ <SHA1>e45838d275682b7c9fb111a83b7359d2e7d50011</SHA1>
+ <MetadataName>2022-11-03-1948_meta.7z</MetadataName>
 </Updates>
