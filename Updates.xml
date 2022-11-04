@@ -1,7 +1,7 @@
 <Updates>
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
- <Checksum>true</Checksum>
+ <Checksum>false</Checksum>
  <PackageUpdate>
   <Name>com.banach.scanner</Name>
   <DisplayName>Banach 3D Scanner</DisplayName>
