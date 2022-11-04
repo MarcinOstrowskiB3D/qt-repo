@@ -10,13 +10,13 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="40" OS="Any" CompressedSize="142"/>
+  <UpdateFile OS="Any" UncompressedSize="40" CompressedSize="142"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <Translations>pl.qm</Translations>
   <Licenses>
    <License name="Banach 3D Scanner - License Agreement" file="banach_license.txt"/>
   </Licenses>
-  <SHA1>d1ed37762813a44e7a2fa6863beef9fdd517bcb6</SHA1>
+  <SHA1>7061449a18397cc9090798842f20795dd9a6cbd7</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.daheng.dahengsdk</Name>
@@ -26,9 +26,9 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="29041766" OS="Any" CompressedSize="29342856"/>
+  <UpdateFile OS="Any" UncompressedSize="29041766" CompressedSize="29342856"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4671092e99c7871acb7ca84056e5ff78cd344735</SHA1>
+  <SHA1>8f06d37aba7f349a5a7947a38df2f82cba74cd5e</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.microsoft.vcredist</Name>
@@ -38,9 +38,9 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="25234832" OS="Any" CompressedSize="23547105"/>
+  <UpdateFile OS="Any" UncompressedSize="25234832" CompressedSize="23547105"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4d7bbbdfc8f92384f5c9985d04756d5b28db4f1f</SHA1>
+  <SHA1>5bdd2995609a36ebe7bc71d1b3dadae6c703ab3c</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.nvidia.cudadnn</Name>
@@ -50,12 +50,12 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="863629352" OS="Any" CompressedSize="334603317"/>
+  <UpdateFile OS="Any" UncompressedSize="863629352" CompressedSize="334603317"/>
   <DownloadableArchives>cudnn-windows-x86_64-8.5.0.96_cuda11-archive.7z</DownloadableArchives>
   <Licenses>
    <License name="CUDA DNN - License Agreement" file="cudadnn_license.txt"/>
   </Licenses>
-  <SHA1>5182a6e71b87f4b68dc0e1153bbafc4e068d20d4</SHA1>
+  <SHA1>7f297b9af71d5f7a1673385db648eb8615eb3583</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.nvidia.cudatoolkit</Name>
@@ -65,9 +65,9 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="36190496" OS="Any" CompressedSize="35971750"/>
+  <UpdateFile OS="Any" UncompressedSize="36190496" CompressedSize="35971750"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>b9089285a96e328796ae332e094a4e45b589bc4e</SHA1>
+  <SHA1>feb0b2331538e2a414a81c605ff7676dc5f4dc7b</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.qtproject.ifw.maintenancetool</Name>
@@ -77,10 +77,10 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Virtual>true</Virtual>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="32803899" OS="Any" CompressedSize="10947240"/>
+  <UpdateFile OS="Any" UncompressedSize="32803899" CompressedSize="10947273"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>ea4e6318cc1a5bac67c73df1b1468bd7c00c57a6</SHA1>
+  <SHA1>db1349958903e05af1bfbc22522133beb2c9bee6</SHA1>
  </PackageUpdate>
- <SHA1>e45838d275682b7c9fb111a83b7359d2e7d50011</SHA1>
- <MetadataName>2022-11-03-1948_meta.7z</MetadataName>
+ <SHA1>4ca518414cbfdb294ce9db13fcae23f89ce3f801</SHA1>
+ <MetadataName>2022-11-04-0838_meta.7z</MetadataName>
 </Updates>
